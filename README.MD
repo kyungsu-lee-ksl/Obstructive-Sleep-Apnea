@@ -9,7 +9,7 @@ This project implements multimodal deep learning models to predict the severity 
 | Package                 | Version       |
 |------------------------|---------------|
 | Python                 | \>= 3.6 (3.10 recommended)        |
-| TensorFlow             | 2.9.0         |
+| TensorFlow             | \>= 2.8.0 (2.9.0 recommended)         |
 | OpenCV                 | Lastest       |
 | tqdm                   | Lastest       |
 | Pandas                 | Lastest       |
