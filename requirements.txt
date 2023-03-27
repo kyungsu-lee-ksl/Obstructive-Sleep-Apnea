@@ -1,0 +1,7 @@
+! python -m pip install tensorflow-macos==2.9.0;
+! python -m pip install tensorflow-metal==0.4.0;
+! conda install -c apple tensorflow-deps==2.9.0;
+! conda install -c conda-forge opencv;
+! python -m pip install tqdm;
+! python -m pip install pandas;
+! python -m pip install pydicom;
