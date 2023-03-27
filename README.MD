@@ -1,4 +1,4 @@
-# Predicting Obstructive Sleep Apnea Severity with Multimodal Deep Learning Models
+# Predicting the severity of obstructive sleep apnea based on paranasal sinus computed tomography scan using multimodal deep learning models
 
 Obstructive Sleep Apnea (OSA) is a common sleep disorder that can lead to serious health problems if left untreated. Paranasal sinus computed tomography (CT) scans have shown promise in predicting OSA severity, but manual interpretation is time-consuming and error-prone. 
 
